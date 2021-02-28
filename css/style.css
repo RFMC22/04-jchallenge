@@ -196,7 +196,6 @@ main{
   width: 90%;
   display: flex;
   justify-content: space-evenly;
-  text-align: center;
   height: 100px;
 }
 #content6 img{

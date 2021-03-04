@@ -56,14 +56,14 @@ main{
   width: 680px;
   font-size: 19px;
 }
-#buttons{
+.buttons{
   width: 470px;
   height: 53px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-#buttons button{
+.buttons button{
   width: 227px;
   height: 100%;
   border-radius: 50px;
@@ -72,11 +72,11 @@ main{
   border: none;
   cursor: pointer;
 }
-#buttons button:nth-child(1){
+.buttons button:nth-child(1){
   background: var(--cyan);
   border-bottom: 3px solid hsl(171, 66%, 36%);
 }
-#buttons button:nth-child(2){
+.buttons button:nth-child(2){
   background: var(--blue);
   border-bottom: 3px solid hsl(233, 58%, 57%);
 }
@@ -140,7 +140,7 @@ main{
   align-items: center;
   justify-content: space-between;
 }
-#subtitle{
+.subtitle{
   width: 100%;
   height: 106px;
   display: flex;
@@ -148,11 +148,11 @@ main{
   justify-content: space-between;
   align-items: center;
 }
-#subtitle h2{
+.subtitle h2{
   font-size: 35px;
   color: var(--darkblue);
 }
-#subtitle p{
+.subtitle p{
   color: var(--grayishblue);
   text-align: center;
   width: 693px;

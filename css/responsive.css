@@ -16,11 +16,11 @@
     width: 90%;
     font-size: 17.5px;
   }
-  #buttons{
+  .buttons{
     height: 136px;
     flex-direction: column;
   }
-  #buttons button{
+  .buttons button{
     width: 70%;
     height: 56px;
   }
@@ -64,14 +64,14 @@
   #content4{
     height: 450px;
   }
-  #subtitle{
+  .subtitle{
     height: 160px;
   }
-  #subtitle h2{
+  .subtitle h2{
     text-align: center;
     font-size: 30px;
   }
-  #subtitle p{
+  .subtitle p{
     text-align: center;
     width: 90%;
     font-size: 18px;

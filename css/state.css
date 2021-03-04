@@ -1,8 +1,8 @@
-#buttons button:nth-child(1):hover{
+.buttons button:nth-child(1):hover{
   background: hsl(171, 71%, 59%);
   border-bottom: 3px solid hsl(171, 64%, 47%);
 }
-#buttons button:nth-child(2):hover{
+.buttons button:nth-child(2):hover{
   background: hsl(233, 100%, 75%);
   border-bottom: 3px solid hsl(233, 72%, 62%);
 }
